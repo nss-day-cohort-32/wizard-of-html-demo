@@ -42,6 +42,22 @@ nav a:hover {
     background-color: antiquewhite;
 }
 
+.flex-item {
+    background-color: hotpink;
+    width: 30%;
+    margin: 1em;
+    text-align: center;
+}
+
+.flex-item p {
+    text-align: left;
+}
+
+.section-img {
+    margin: 0 auto;
+    width: 100%;
+}
+
 main {
     flex: 2;
     margin: 1em;
